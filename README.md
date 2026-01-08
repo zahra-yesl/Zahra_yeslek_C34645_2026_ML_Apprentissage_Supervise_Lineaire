@@ -4,14 +4,12 @@
 **Matricule :** C34645  
 **Module :** Apprentissage Supervisé Linéaire  
 **Année :** 2026  
-**Encadrant :** Dr. EL BENANY Mohamed Mahmoud  
-
 ---
 
 ##  Objectif du projet
 Ce mini-projet a pour objectif de consolider les bases de l’apprentissage supervisé à travers l’implémentation et l’analyse de deux modèles fondamentaux :
 - la **régression linéaire** (MLS),
-- la **régression logistique** (MLNS).
+- la **régression logistique** (MLS).
 
 ---
 
