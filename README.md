@@ -43,5 +43,4 @@ Ce mini-projet a pour objectif de consolider les bases de l’apprentissage supe
 
 ---
 
-## 🔗 Lien Google Colab (référence)
-https://colab.research.google.com/drive/1prM125opUxJXhulocr70JATG5AJR0nqW?usp=sharing
+
